@@ -98,12 +98,6 @@ a:hover {
 	/* border-bottom: 1px solid #505050; */
 }
 
-span#funfact h4 {
-	padding: .4em 0;
-	margin: 0 auto 1em auto;
-}
-
-
 /* List Styles */
 
 ul {
@@ -523,4 +517,4 @@ li{
 		padding: 1em 0;
 	}
 }
-}
+
